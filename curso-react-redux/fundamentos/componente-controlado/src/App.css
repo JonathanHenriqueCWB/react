@@ -1,0 +1,16 @@
+.App {
+  width: 80%;
+  background-color: lightgray;
+  padding: 20px;
+  margin: auto;
+}
+
+.App-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.App small {
+  color: lightcoral;
+}

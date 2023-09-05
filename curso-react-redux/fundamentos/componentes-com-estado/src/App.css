@@ -1,0 +1,12 @@
+.App {
+  background-color: lightgray;
+  padding: 10%;
+}
+
+.App strong {
+  color: rgb(255, 102, 0);
+}
+
+.App span {
+  color: red;
+}

@@ -1,0 +1,38 @@
+.App {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.App h1 {
+    color: rgb(85, 83, 83);
+}
+
+.App p {
+    font-size: 1.2rem;
+}
+
+.Container {
+    width: 80%; height: 80vh;
+    overflow: scroll;
+}
+
+.App .Container strong {
+    color: red
+}
+
+.Block {
+    padding: 2% 5%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.BgPrimary {
+    background-color: #cdcdcd;
+}
+
+.BgSecondary {
+    background-color: #dcdcdc;
+}

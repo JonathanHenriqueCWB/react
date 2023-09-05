@@ -1,0 +1,14 @@
+.App {
+}
+
+.App-direta {
+  background-color: #cdcdcd;
+  margin: auto;
+  padding: 5%;
+}
+
+.App-indireta {
+  background-color: #ddd;
+  margin: auto;
+  padding: 5%;
+}

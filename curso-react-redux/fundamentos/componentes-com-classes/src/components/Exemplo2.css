@@ -1,0 +1,18 @@
+.Exemplo2 {
+    background-color: darkgray;
+    width: 80%;
+    margin: auto;
+    padding: 5%;
+
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.Exemplo2 strong {
+    color: rgb(160, 107, 10);
+}
+
+.Exemplo2 small {
+    color: rgb(241, 50, 50);
+}

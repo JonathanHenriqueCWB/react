@@ -1,0 +1,9 @@
+.App {
+}
+
+.App-container {
+  background-color: lightgray;
+  width: 80%;
+  margin: auto;
+  padding: 5%;
+}
