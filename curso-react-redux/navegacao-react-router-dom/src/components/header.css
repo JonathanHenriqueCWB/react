@@ -1,0 +1,27 @@
+.Header {
+    background-color: rgb(57, 1, 83);
+    color: white;
+    padding: 30px 10%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Header nav ul {
+    list-style-type: none;
+    gap: 10px;
+    display: flex;
+    cursor: pointer;
+}
+
+.Header nav ul li:hover{
+    color: rgb(184, 1, 107);
+}
+
+.Link {
+    list-style-type: none;
+    gap: 10px;
+    display: flex;
+    cursor: pointer;
+}
